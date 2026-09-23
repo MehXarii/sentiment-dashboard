@@ -5,6 +5,7 @@ Positive, Negative, or Neutral using DistilBERT — with live charts, confidence
 scores, filter controls, and auto-generated business insights.
 
 **Live Demo:** https://sentiment-dashboard-app.streamlit.app/ 
+
 **GitHub:** https://github.com/MehXarii/sentiment-dashboard
 
 ---
